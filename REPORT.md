@@ -224,6 +224,14 @@ on 2026-10-08. The historical references are retained alongside separately named
 corrected references; the same test tolerances are kept. The failing
 publication check is not presented as successful.
 
+After the approved correction, the local suite passed **113 tests plus the
+documented XPASS, with zero skipped**, and Ruff lint/format and strict Pyright
+passed. All five GitHub CI jobs then passed on the corrected commit, including
+the test with real Pantheon+/JLA data and the Linux/Windows Python 3.12/3.14
+matrix. A renewed independent oracle check agreed with the centered production
+chi-squares within 6.82e-13. These later successful checks do not erase the
+initial failure or the reason for the erratum.
+
 The present report concerns the fixed, explicitly stated curve parameters.
 Its independent oracle and centered allocation calculations already avoid that
 cancellation and pass their prescribed gates. The full gap remains +47.620 at

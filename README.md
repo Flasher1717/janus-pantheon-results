@@ -62,6 +62,11 @@ the historical values are retained and test tolerances are unchanged. The report
 documents the issue; the independently verified
 frozen-curve gap and the localization tables remain the results reported here.
 
+After the correction, **113 local tests passed** with one documented XPASS, and
+**all five GitHub CI jobs passed**, including the Pantheon+/JLA real-data job and
+the Linux/Windows Python 3.12/3.14 matrix. The implementation retains the original
+scientific tolerances and archives the historical reference values.
+
 The work was developed with AI assistance and includes explicit numerical
 cross-checks. This is a project report, not a claim of peer review or a new law
 of physics.
