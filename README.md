@@ -67,6 +67,15 @@ After the correction, **113 local tests passed** with one documented XPASS, and
 the Linux/Windows Python 3.12/3.14 matrix. The implementation retains the original
 scientific tolerances and archives the historical reference values.
 
-The work was developed with AI assistance and includes explicit numerical
-cross-checks. This is a project report, not a claim of peer review or a new law
-of physics.
+## Contributors
+
+- **Téo Alletz** — project author, direction and review.
+- **Claude Code (Anthropic)** — assistance with the initial implementation,
+  Pantheon+ analysis, controlled JLA extension and original scientific report.
+- **OpenAI Codex** — assistance with the October 2026 review, independent
+  numerical checks, discrepancy localization, approved numerical erratum and
+  publication of this results report.
+
+Claude's original contribution is retained alongside Codex's subsequent work.
+The work includes explicit numerical cross-checks. This is a project report,
+not a claim of peer review or a new law of physics.
