@@ -17,9 +17,9 @@ Date: 2026-10-08. Protocol: [PROTOCOL.md](PROTOCOL.md),
 committed at `2967bc0` before any grouped outcome was calculated or inspected.
 The total gap and previous full-sample residual figure were already known.
 This is a prespecified exploratory follow-up on reused data, not independent
-confirmatory evidence. Project author: Téo Alletz. **Claude Code (Anthropic)**
+confirmatory evidence. Project author: Téo Alletz. **[Claude Code (Anthropic)](https://github.com/claude)**
 assisted with the original implementation, Pantheon+ analysis, controlled JLA
-extension and report. **OpenAI Codex** assisted with the October review,
+extension and report. **[OpenAI Codex](https://github.com/codex)** assisted with the October review,
 independent checks, discrepancy localization, numerical erratum and publication.
 Both contributions are acknowledged; the earlier Claude-assisted work is retained.
 

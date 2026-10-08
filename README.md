@@ -70,9 +70,9 @@ scientific tolerances and archives the historical reference values.
 ## Contributors
 
 - **Téo Alletz** — project author, direction and review.
-- **Claude Code (Anthropic)** — assistance with the initial implementation,
+- **[Claude Code (Anthropic)](https://github.com/claude)** — assistance with the initial implementation,
   Pantheon+ analysis, controlled JLA extension and original scientific report.
-- **OpenAI Codex** — assistance with the October 2026 review, independent
+- **[OpenAI Codex](https://github.com/codex)** — assistance with the October 2026 review, independent
   numerical checks, discrepancy localization, approved numerical erratum and
   publication of this results report.
 
